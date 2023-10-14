@@ -48,7 +48,7 @@
 </p>
 </br>
 
-### 🌱 I'm currently learning... / Last Projects
+### I'm currently learning... / Last Projects
 - Angular 17
 - NestJS 
 - NodeJS
