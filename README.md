@@ -56,12 +56,12 @@
 </br>
 
 ### Last Projects
-- <a href="https://github.com/jvaler01/spotify-clone" target="_blank">Angular Spotify Clone - (Work in progress)</a>
-- <a href="https://github.com/jvaler01/Angular_Movies_Project_Client" target="_blank">Angular Movies Front</a>
-- <a href="https://github.com/jvaler01/Node_Movies_Project_Server" target="_blank">Angular Movies Back</a> 
-- <a href="https://github.com/jvaler01/angular_ngrx_signals" target="_blank">Angular NGRX</a>
-- <a href="https://github.com/jvaler01/nestjs_pokedex" target="_blank">NestJS Pokedex (Curso) - (Work in progress)</a>
-- <a href="https://github.com/jvaler01/portfolio_modern" target="_blank">Astro Portfolio personal</a>
+- <a href="https://github.com/jvaler01/spotify-clone" target="_blank">Angular 17 next - Spotify Clone - (Work in progress)</a>
+- <a href="https://github.com/jvaler01/Angular_Movies_Project_Client" target="_blank">Angular 16 - Movies Front</a>
+- <a href="https://github.com/jvaler01/Node_Movies_Project_Server" target="_blank">NodeJS Express - Movies Back</a> 
+- <a href="https://github.com/jvaler01/angular_ngrx_signals" target="_blank">Angular 16 - NGRX + Signals</a>
+- <a href="https://github.com/jvaler01/nestjs_pokedex" target="_blank">NestJS - Pokedex (Curso) - (Work in progress)</a>
+- <a href="https://github.com/jvaler01/portfolio_modern" target="_blank">Astro - Portfolio personal</a>
 </br>
 
 ### Github Stats:
