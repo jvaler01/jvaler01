@@ -50,8 +50,8 @@
 </br>
 
 ### I'm currently learning
-- Angular 17
-- NestJS 
+- Angular 19
+- SwiftUI
 - NodeJS
 </br>
 
