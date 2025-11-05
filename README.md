@@ -50,9 +50,7 @@
 </br>
 
 ### I'm currently learning
-- Angular 19
-- SwiftUI
-- NodeJS
+- Nuxt
 </br>
 
 ### Last Projects
